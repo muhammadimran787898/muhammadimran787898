@@ -14,14 +14,6 @@
 
 - <p align="left"><img src="https://user-images.githubusercontent.com/54871373/218267045-09100621-8985-4b73-96bf-f0a187980e61.gif" widht="30" height="30" style="margintop:"10px" alt="" /> I’m currently working on FullStack Development</p>
 
-- 🧠 I’m currently lerning  **Recat native **
-
-- 👯 Exploring Technical Content on React.js Next.js Node.js Express NEST.js 
-  
-  🤝 Teamwork makes the dream work
-
-- 👨‍💻 My portfolio is available at [http://muhammadimran-portfolio.surge.sh/](http://muhammadimran-portfolio.surge.sh/)
-
 - 📫 How to reach me **munir787898@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-imran-0822b51aa//](https://www.linkedin.com/in/muhammad-imran-0822b51aa//)
