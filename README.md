@@ -12,7 +12,7 @@
 
 
 
-- <p align="left"><img src="https://user-images.githubusercontent.com/54871373/218267045-09100621-8985-4b73-96bf-f0a187980e61.gif" widht="30" height="30" style="margintop:"10px" alt="" /> I’m currently working on FullStack Development</p>
+- <p align="left"><img src="https://user-images.githubusercontent.com/54871373/218267045-09100621-8985-4b73-96bf-f0a187980e61.gif" widht="30" height="30" style="margintop:"10px" alt="" /> Developer</p>
 
 - 📫 How to reach me **munir787898@gmail.com**
 
